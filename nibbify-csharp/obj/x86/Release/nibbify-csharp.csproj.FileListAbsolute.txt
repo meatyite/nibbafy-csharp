@@ -1,0 +1,3 @@
+/home/sl4v/Projects/nibbify-csharp/nibbify-csharp/bin/Release/nibbify-csharp.exe
+/home/sl4v/Projects/nibbify-csharp/nibbify-csharp/obj/x86/Release/nibbify-csharp.csproj.CoreCompileInputs.cache
+/home/sl4v/Projects/nibbify-csharp/nibbify-csharp/obj/x86/Release/nibbify-csharp.exe
