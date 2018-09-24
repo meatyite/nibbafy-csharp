@@ -1,7 +1,7 @@
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, September 2018
  
-Copyright (C) 2004 Amir P <dontmailme@nomailpl0x.com>
+Copyright (C) 2018 Amir P <dontmailme@nomailpl0x.com>
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
